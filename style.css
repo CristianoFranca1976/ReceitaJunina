@@ -1,0 +1,280 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+
+}
+
+.top {
+    
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 450px;
+    background: #FEECE0;
+}
+
+.center {
+    display: flex;
+    width: 1073px;
+    height: 293px;
+
+}
+
+img {
+    position: absolute;
+    width: 409px;
+    height: 293px;
+    margin-top: 112px;
+    margin-left: 155px;
+
+}
+
+h1 {
+    position: absolute;
+    width: 315px;
+    height: 48px;
+    margin-left: 620px;
+    margin-top: 175px;
+    color: #58190A;
+
+    font-size: 72px;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+p {
+    position: absolute;
+    width: 608px;
+    height: 25px;
+    margin-top: 255px;
+    margin-left: 620px;
+    color: #58190A;
+
+
+    font-size: 38px;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p1 {
+   position: absolute;
+   width: 123px;
+   height: 23px;
+   margin-top: 314.5px;
+   margin-left: 620px;
+   color: #9B6647;
+
+   font-size: 35px;
+   font-family: Source Serif Pro;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+}
+
+.img1 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin-top: 310px;
+    margin-left: 758px;
+
+}
+
+p2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 302px;
+    margin-left: 810px;
+    color: #9B6647;
+
+    font-size: 40px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.img2 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin-top: 310px;
+    margin-left: 870px;
+}
+
+.botton {
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 439px;
+    margin-top: 450px;
+    background: #9B6647;
+
+}
+
+.container-botton {
+    display: flex;
+    
+    width: 1340px;
+    min-height: 291px;
+    margin-top: 74px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 74px;
+}
+
+section {
+    
+    
+    width: 433px;
+    height: 230px;
+    margin-left: 50px;
+    
+}
+
+
+
+.house {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    width: 271px;
+    height: 32px;
+    
+}
+    
+section img{
+    width: 35.696px;
+    height: 32px;
+    margin-left: 0;
+    margin-top: 0;
+    
+}
+
+h2 {
+    color: #FEECE0;
+    font-size: 38px;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 42px;
+}
+
+.house2 {
+    
+    display: flex;
+    width: 433px;
+    height: 166px;
+    flex-direction: column;
+    margin-top: 32px;
+    color: #FFF;
+
+    font-size: 28px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+
+}
+
+ul {
+    
+    width: 400px;
+    height: 166px;
+    margin-top: 0;
+    padding-left: 23px;
+}
+ 
+section2 {
+    
+    
+    width: 663px;
+    height: 257px;
+    margin-left: 64px;
+
+}
+
+.house3 {
+    display:flex;
+    width: 348px;
+    height: 32px;
+    align-items: center;
+    gap: 11px;
+    
+
+    
+    
+}
+
+.house3 img {
+    width: 38px;
+    height: 32px;
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+h3 {
+    width: 299px;
+    height: 0px;
+    color: #FEECE0;
+    font-size: 38px;
+    font-family: Source Serif Pro;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 42px; 
+    margin-top: 0;
+    
+    
+    
+}
+
+.house4 {
+    
+    width: 663px;
+    height: 190px;
+    margin-left: 0;
+    margin-top: 32px;
+
+
+}
+
+ol {
+    
+    color: #FFF;
+    font-size: 28px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    margin-top: 0;
+}
+
+
+
+
